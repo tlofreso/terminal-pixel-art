@@ -11,7 +11,7 @@
 
 An [Aseprite](https://www.aseprite.org/)-inspired pixel art editor built for the terminal. Use it as a **CLI** for scriptable pixel art, or launch the interactive **TUI** to draw with your keyboard.
 
-![Crescent Moon](examples/crescent_moon.png)
+![Crescent Moon](examples/rocket.png)
 
 ## Install
 
