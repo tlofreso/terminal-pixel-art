@@ -1,0 +1,6 @@
+.claude
+CLAUDE.md
+.venv
+scratch/
+*.pyc
+.DS_Store
